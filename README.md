@@ -189,11 +189,7 @@ $ cd Betty; ./install.sh
 * 0.1.0
 
 
-## :blue_book: Authors
 
-* **Brennan D Baraban** - [@bdbaraban](https://github.com/bdbaraban)
-
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
 
 
 ## :mag: License
